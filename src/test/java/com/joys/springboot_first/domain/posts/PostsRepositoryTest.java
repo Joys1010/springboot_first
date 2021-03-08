@@ -1,4 +1,4 @@
-package com.joys.springboot_first.web.domain.posts;
+package com.joys.springboot_first.domain.posts;
 
 import com.joys.springboot_first.domain.posts.Posts;
 import com.joys.springboot_first.domain.posts.PostsRepository;
